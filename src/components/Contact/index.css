@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+}
+.text-main-container {
+  text-align: center;
+}

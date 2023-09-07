@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.images-container {
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+}
+.image-flex {
+  display: flex;
+}
+.para {
+  margin: auto;
+  margin-left: 10px;
+}
+.image-logo {
+  height: 50px;
+  width: 50px;
+}
